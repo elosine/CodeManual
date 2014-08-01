@@ -1,0 +1,3 @@
+SynthDef(\blah, {
+
+}).add;

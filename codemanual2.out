@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Author, Layout Designer and Compositor}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Changing the Layout}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{The Art of Layout-Design}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Common Rules}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Special note for technical descriptions}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{How to change a LaTeX layout?}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Advantages and Disadvantages of the text processing system LaTeX}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Input files and class files}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Class files and Packages}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Changing the layout, step by step}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.5}{A simple example \(Equation numbers\)}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.6}{A more complex example \(Reference Manual\)}{section.3}% 13
+\BOOKMARK [1][-]{section*.3}{Appendix}{}% 14
+\BOOKMARK [1][-]{appendix.A}{The page structure in LaTeX}{}% 15
+\BOOKMARK [1][-]{appendix.B}{Description of the refman-class family}{}% 16
+\BOOKMARK [2][-]{subsection.B.1}{Invocation}{appendix.B}% 17
+\BOOKMARK [2][-]{subsection.B.2}{Options}{appendix.B}% 18
+\BOOKMARK [2][-]{subsection.B.3}{Layout changes}{appendix.B}% 19
+\BOOKMARK [2][-]{subsection.B.4}{Footnotes}{appendix.B}% 20
+\BOOKMARK [2][-]{subsection.B.5}{Additional commands}{appendix.B}% 21
