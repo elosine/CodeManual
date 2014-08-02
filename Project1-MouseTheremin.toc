@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}Project 1 - Mouse Theremin}{5}{section.1}
+\contentsline {section}{\numberline {2}wazzup}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Author, Layout Designer and Compositor}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Changing the Layout}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}The Art of Layout-Design}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Common Rules}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Special note for technical descriptions}{6}{subsection.3.2}
+\contentsline {section}{\numberline {4}How to change a \LaTeX \ layout?}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Advantages and Disadvantages of the text processing system \LaTeX }{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Input files and class files}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Class files and Packages}{8}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Changing the layout, step by step}{8}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Defining the differences between the desired and the available layout}{9}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Finding the original definition}{9}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}Writing a new package file}{9}{subsubsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.4}Using the new package}{9}{subsubsection.4.4.4}
+\contentsline {subsection}{\numberline {4.5}A simple example (Equation numbers)}{10}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}A more complex example (Reference Manual)}{10}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Page layout}{11}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Section headings}{11}{subsubsection.4.6.2}
+\contentsline {subsubsection}{\numberline {4.6.3}Setting the margin notes}{12}{subsubsection.4.6.3}
+\contentsline {subsubsection}{\numberline {4.6.4}Extensions}{12}{subsubsection.4.6.4}
+\contentsline {section}{Appendix}{13}{section*.2}
+\contentsline {section}{\numberline {A}The page structure in \LaTeX }{13}{appendix.A}
+\contentsline {section}{\numberline {B}Description of the refman-class family}{16}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Invocation}{16}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}Options}{16}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Layout changes}{16}{subsection.B.3}
+\contentsline {subsubsection}{\numberline {B.3.1}Page design}{16}{subsubsection.B.3.1}
+\contentsline {subsubsection}{\numberline {B.3.2}Section headings}{17}{subsubsection.B.3.2}
+\contentsline {subsubsection}{\numberline {B.3.3}Paragraphs}{17}{subsubsection.B.3.3}
+\contentsline {subsection}{\numberline {B.4}Footnotes}{17}{subsection.B.4}
+\contentsline {subsubsection}{\numberline {B.4.1}Description environment}{17}{subsubsection.B.4.1}
+\contentsline {subsubsection}{\numberline {B.4.2}Positioning of margin notes}{17}{subsubsection.B.4.2}
+\contentsline {subsubsection}{\numberline {B.4.3}Headers and Footers}{17}{subsubsection.B.4.3}
+\contentsline {subsection}{\numberline {B.5}Additional commands}{18}{subsection.B.5}
+\contentsline {subsubsection}{\numberline {B.5.1}Marginlabel}{18}{subsubsection.B.5.1}
+\contentsline {subsubsection}{\numberline {B.5.2}Attention}{18}{subsubsection.B.5.2}
+\contentsline {subsubsection}{\numberline {B.5.3}Seealso}{18}{subsubsection.B.5.3}
+\contentsline {subsubsection}{\numberline {B.5.4}Maxipage environment}{18}{subsubsection.B.5.4}
+\contentsline {subsubsection}{\numberline {B.5.5}Fullpage environment}{19}{subsubsection.B.5.5}
+\contentsline {subsubsection}{\numberline {B.5.6}Noparskip}{19}{subsubsection.B.5.6}
+\contentsline {subsubsection}{\numberline {B.5.7}Setleftmarginwidth}{19}{subsubsection.B.5.7}
+\contentsline {subsubsection}{\numberline {B.5.8}Descriptioncolon}{19}{subsubsection.B.5.8}
+\contentsline {subsubsection}{\numberline {B.5.9}Descriptionleft}{19}{subsubsection.B.5.9}
+\contentsline {subsubsection}{\numberline {B.5.10}Maxipagerule}{19}{subsubsection.B.5.10}
+\contentsline {subsubsection}{\numberline {B.5.11}Condbreak}{19}{subsubsection.B.5.11}
+\contentsline {subsubsection}{\numberline {B.5.12}Example}{19}{subsubsection.B.5.12}
+\contentsline {subsubsection}{\numberline {B.5.13}Pageperchapter}{20}{subsubsection.B.5.13}
+\contentsline {subsubsection}{\numberline {B.5.14}Smallborder}{20}{subsubsection.B.5.14}
+\contentsline {subsubsection}{\numberline {B.5.15}Dvips}{20}{subsubsection.B.5.15}
+\contentsline {subsubsection}{\numberline {B.5.16}Pdftex}{20}{subsubsection.B.5.16}
+\contentsline {subsubsection}{\numberline {B.5.17}Pagesize}{20}{subsubsection.B.5.17}
+\contentsline {subsubsection}{\numberline {B.5.18}Ifpdfoutput}{20}{subsubsection.B.5.18}
