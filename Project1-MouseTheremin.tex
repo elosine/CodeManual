@@ -98,6 +98,7 @@ Line 13
 \definecolor{sunshine}{RGB}{255,234,100}
 \definecolor{goldenrod}{RGB}{218,165,32}
 \definecolor{darkorange}{RGB}{238,118,0}
+\definecolor{violetred}{RGB}{208,32,144}
 
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
@@ -108,7 +109,7 @@ Line 13
 
 
 \lstdefinestyle{sumstyle2}{ % Define a style for your code snippet, multiple definitions can be made if, for example, you wish to insert multiple code snippets using different programming languages into one document
-language=Java, % Detects keywords, comments, strings, functions, etc for the language specified
+%language=Java, % Detects keywords, comments, strings, functions, etc for the language specified
 backgroundcolor=\color{sunshine}, % Set the background color for the snippet - useful for highlighting
 basicstyle=\sumfont, % The default font size and style of the code
 breakatwhitespace=false, % If true, only allows line breaks at white space
@@ -138,8 +139,8 @@ linewidth=9cm,
 
 \lstdefinestyle{sectit}{ % Define a style for your code snippet, multiple definitions can be made if, for example, you wish to insert multiple code snippets using different programming languages into one document
 language=Java, % Detects keywords, comments, strings, functions, etc for the language specified
-backgroundcolor=\color{sunshine}, % Set the background color for the snippet - useful for highlighting
-basicstyle=\sumfont\huge, % The default font size and style of the code
+backgroundcolor=\color{white}, % Set the background color for the snippet - useful for highlighting
+basicstyle=\Huge\sumfont, % The default font size and style of the code
 breakatwhitespace=false, % If true, only allows line breaks at white space
 breaklines=true, % Automatic line breaking (prevents code from protruding outside the box)
 captionpos=b, % Sets the caption position: b for bottom; t for top
@@ -147,8 +148,7 @@ commentstyle=\usefont{T1}{pcr}{m}{sl}\color{DarkGreen}, % Style of comments with
 deletekeywords={}, % If you want to delete any keywords from the current language separate them by commas
 %escapeinside={\%}, % This allows you to escape to LaTeX using the character in the bracket
 firstnumber=1, % Line numbers begin at line 1
-frame=single, % Frame around the code box, value can be: none, leftline, topline, bottomline, lines, single, shadowbox
-frameround=tttt, % Rounds the corners of the frame for the top left, top right, bottom left and bottom right positions
+frame=none, % Frame around the code box, value can be: none, leftline, topline, bottomline, lines, single, shadowbox
 keywordstyle=\color{Blue}\bf, % Functions are bold and blue
 morekeywords={}, % Add any functions no included by default here separated by commas
 numbers=left, % Location of line numbers, can take the values of: none, left, right
@@ -160,9 +160,9 @@ showtabs=false, % Display tabs in the code as lines
 stepnumber=100, % The step distance between line numbers, i.e. how often will lines be numbered
 stringstyle=\color{Purple}, % Strings are purple
 tabsize=2, % Number of spaces per tab in the code
-framesep=10pt,
+frame=tb,
+framesep=5pt,
 escapeinside={@}{@},
-linewidth=9cm,
 }
 
 
@@ -268,21 +268,59 @@ H27.0 --- Version 1}
 
 %----------------------------------------------------------------------------------------
 
-\begin{changemargin}{-2.50cm}{0.5cm} 
+\begin{changemargin}{-3.5cm}{0cm} 
 \begin{lstlisting}[style=sectit]
-P R O J E C T  1 -  M O U SE THEREMIN
+@\textcolor{violetred}{
+PROJECT 1 - MOUSE THEREMIN
+}@
 \end{lstlisting}
 \end{changemargin}
+\section{P R O J E C T  -  O N E}
 
+%----------------------------------------------------------------------------------------
 
-\begin{changemargin}{1.5cm}{0.5cm} 
+\begin{changemargin}{3.3cm}{0.0cm} 
+\begin{lstlisting}[style=sumstyle2]
+With a few lines of code, we build a pretty useful and infinitely expandable digital instrument.All of the ingredients for digital performance are here, instrument, interface and score.  It'll introduce us to basics concepts in coding, synthesis, SuperCollider, Processing, and give us a basic template wherethe sky's the limit.
+\end{lstlisting} 
+\end{changemargin}
+
+%----------------------------------------------------------------------------------------
+
+\subsection{Start At The End}
+
+\begin{changemargin}{3.3cm}{0.0cm} 
 \begin{lstlisting}[style=sumstyle2]
 @\begin{large}
 EXPLORING IN THIS SECTION
 \end{large}@
---> Using the Mouse as controller
+--> Following Instructions
+--> Wrist & Finger Dexterity
+--> Mouse Accuracy & Speed
+--> Digital Performance
 \end{lstlisting} 
 \end{changemargin}
+
+%----------------------------------------------------------------------------------------
+\index{Run the Code}\marginlabel{Run the Code}
+Run the sc code
+
+Copy the SC code below into SuperCollider, or you can download it from here:
+
+\textcolor{blue}{\href{http://www.wikibooks.org}{Wikibooks home}}
+
+Run it as indicated.  
+
+See if you can figure out what to do without any further guidance from me.
+
+Did you play a tune?
+
+Which one?
+
+One of these?
+My favourite is the godfather theme
+
+Appendix installing sc and processing
 
 
 \url{http://www.processing.org}

@@ -1,3 +1,4 @@
+\indexentry{Run the Code|hyperpage}{1}
 \indexentry{Is b introducin|hyperpage}{5}
 \indexentry{what is it?|hyperpage}{5}
 \indexentry{author|hyperpage}{5}
@@ -36,15 +37,15 @@
 \indexentry{pagestyle|hyperpage}{17}
 \indexentry{headings|hyperpage}{17}
 \indexentry{myheadings|hyperpage}{17}
-\indexentry{footings|hyperpage}{18}
-\indexentry{myfootings|hyperpage}{18}
+\indexentry{footings|hyperpage}{17}
+\indexentry{myfootings|hyperpage}{17}
 \indexentry{marginlabel|hyperpage}{18}
 \indexentry{attention|hyperpage}{18}
 \indexentry{attentionsymbol|hyperpage}{18}
 \indexentry{manfnt|hyperpage}{18}
 \indexentry{seealso|hyperpage}{18}
 \indexentry{maxipage|hyperpage}{18}
-\indexentry{maxipagerule|hyperpage}{19}
+\indexentry{maxipagerule|hyperpage}{18}
 \indexentry{fullpage|hyperpage}{19}
 \indexentry{setleftmarginwidth|hyperpage}{19}
 \indexentry{descriptioncolon|hyperpage}{19}
@@ -52,9 +53,9 @@
 \indexentry{maxipagerule|hyperpage}{19}
 \indexentry{condbreak|hyperpage}{19}
 \indexentry{example|hyperpage}{19}
-\indexentry{pageperchapter|hyperpage}{20}
-\indexentry{smallborder|hyperpage}{20}
-\indexentry{dvips|hyperpage}{20}
+\indexentry{pageperchapter|hyperpage}{19}
+\indexentry{smallborder|hyperpage}{19}
+\indexentry{dvips|hyperpage}{19}
 \indexentry{pdftex|hyperpage}{20}
 \indexentry{pagesize|hyperpage}{20}
 \indexentry{ifpdfoutput|hyperpage}{20}
